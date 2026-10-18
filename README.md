@@ -23,25 +23,32 @@ Download the PBIX file and open it in Power BI Desktop to explore the report int
 ## Dashboard Preview
 
 ### 1. Executive Overview
-![Executive Overview](executive-overview.png)
+
+![Executive Overview](./Exclusive%20Overview.PNG)
 
 ### 2. Geographical Analysis
-![Geographical Analysis](geographical-analysis.png)
+
+![Geographical Analysis](./Geographical%20Analysis.PNG)
 
 ### 3. Product Performance
-![Product Performance](product-performance.png)
+
+![Product Performance](./Product%20Performance.PNG)
 
 ### 4. Category Analysis
-![Category Analysis](category-analysis.png)
+
+![Category Analysis](./Category%20Analysis.PNG)
 
 ### 5. Time Intelligence
-![Time Intelligence](time-intelligence.png)
+
+![Time Intelligence](./Time%20Intelligence.PNG)
 
 ### 6. Orders Analysis
-![Orders Analysis](orders-analysis.png)
 
-### 7. Executive Summary & Recommendations
-![Executive Summary and Recommendations](executive-summary.png)
+![Orders Analysis](./Order%20Analysis.PNG)
+
+### 7. Executive Summary and Recommendations
+
+![Executive Summary](./Executive%20Summary.PNG)
 
 ## Key Metrics Shown
 
